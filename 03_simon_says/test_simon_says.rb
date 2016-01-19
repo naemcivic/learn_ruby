@@ -1,6 +1,6 @@
 require './test_helper'
 require 'simon_says'
-
+require 'pry'
 # By now we should be getting better at reading tests. We should able to see
 # what methods will need to be defined and what they need to return.
 

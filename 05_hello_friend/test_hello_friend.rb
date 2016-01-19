@@ -1,6 +1,6 @@
 require './test_helper'
 require 'friend'
-
+require 'pry'
 class TestFriend < MiniTest::Test
   # 'setup' gets run before each individual test
   # We can set up variables that we reuse here
